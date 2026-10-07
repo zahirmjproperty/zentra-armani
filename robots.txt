@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://armani.project.zentrapropertygroup.com/sitemap.xml
